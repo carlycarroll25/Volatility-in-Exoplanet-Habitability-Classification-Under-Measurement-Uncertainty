@@ -14,7 +14,7 @@ This project uses data from the NASA Exoplanet Archive planetary systems dataset
 - **`Modeling.ipynb`**: Implements classification models (logistic regression and random forest), evaluates performance, and performs Monte Carlo perturbation to compute volatility scores for each observation
 
 ### Reports
-- **`Exoplanet_Volatility_Paper.pdf`**: Full academic paper detailing background, methodology, results, and discussion of the volatility framework
+- **`Exoplanet_Volatility.pdf`**: Full academic paper detailing background, methodology, results, and discussion of the volatility framework
 
 ## Methodology
 The project followed these main steps:
@@ -44,8 +44,6 @@ To obtain the data:
 2. Navigate to the **Planetary Systems (PS) table**
 3. Download the dataset as a CSV file
 4. Save the file locally
-
-Alternatively, you may use your own version of the dataset, provided it contains the required planetary and stellar features.
 
 **Notebooks**
 - Data Preprocessing.ipynb  
